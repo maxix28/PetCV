@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990201937117",
+    "project_id": "petcv-df277",
+    "storage_bucket": "petcv-df277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990201937117:android:777e4982c43190a426af34",
+        "android_client_info": {
+          "package_name": "com.example.petcv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtV7g6I12k9L0cqe5SeUCYRyqBE8cMV-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
